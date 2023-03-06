@@ -1,1 +1,45 @@
-/* Write your CSS here! */
+html {
+    background: lightgrey;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+main {
+    font-size: 14px;
+}
+
+#mainHeading {
+    color:red;
+    text-align: center;
+}
+
+#pageIntro {
+    color: rgb(57, 33, 190);
+    font-size: 16;
+}
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3 {
+    text-align: center
+}
+
+figure {
+    text-align: center;
+}
+.funParagraph {
+    color: green;
+}
+
+
+
+
+
+footer {
+    font-size: 10px;
+}
